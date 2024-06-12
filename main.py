@@ -5,7 +5,7 @@ This script requires 2 things to be installed.
 2: pyautogui (https://pyautogui.readthedocs.io/en/latest/install.html)
 
 --- CREDITS AND VIDEO LOCATIONS ---
-GITHUB: (link is being added at the time of recording this video) - PizzaGod873
+GITHUB: https://github.com/PizzaGod873/mc-mapart-give-command - PizzaGod873
 YOUTUBE: (link is being added at the time of recording this video) - @AndrewPCs
 REDDIT: https://www.reddit.com/user/SuperPizza999/ (Multiple posts so profile is listed) - SuperPizza999
 '''
