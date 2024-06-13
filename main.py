@@ -6,7 +6,7 @@ This script requires 2 things to be installed.
 
 --- CREDITS AND VIDEO LOCATIONS ---
 GITHUB: https://github.com/PizzaGod873/mc-mapart-give-command - PizzaGod873
-YOUTUBE: (link is being added at the time of recording this video) - @AndrewPCs
+YOUTUBE: https://www.youtube.com/watch?v=yNm63dEl0WA - @AndrewPCs
 REDDIT: https://www.reddit.com/user/SuperPizza999/ (Multiple posts so profile is listed) - SuperPizza999
 '''
 
