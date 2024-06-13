@@ -9,7 +9,6 @@ This script requires 2 things to be installed.
 Install them to your computer or special test editor (like VS code)
 
 ### Video tutorial for configuration
-### YOUTUBE HAS WAY BETTER QUALITY BECAUSE GITHUB HAS A 10MB FILE SIZE LIMIT
 [![Tutorial](https://img.youtube.com/vi/vZ7z6WNted4/0.jpg)](https://www.youtube.com/watch?v=vZ7z6WNted4)
 
 ### Configuration
