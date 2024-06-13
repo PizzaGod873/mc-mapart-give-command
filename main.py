@@ -21,7 +21,7 @@ import time as t
 
 t.sleep(7.5) # Delay to get into Minecraft
 
-for mmid in range(144, 152 + 1): # Modify the 1st and 2nd numbers to set the ID range.
+for mmid in range(0, 0 + 1): # Modify the 1st and 2nd numbers to set the ID range.
 
 # This is what actually does the stuff. (NOT RECOMMENDED TO CONFIGURE)
 
