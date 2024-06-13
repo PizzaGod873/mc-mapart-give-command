@@ -8,9 +8,8 @@ This script requires 2 things to be installed.
 2: pyautogui (https://pyautogui.readthedocs.io/en/latest/install.html)   
 Install them to your computer or special test editor (like VS code)
 
-### Video tutorial for configuration and other video links
-Youtube link:   
-add video here
+### Video tutorial for configuration
+[![Tutorial](https://img.youtube.com/vi/vZ7z6WNted4/maxresdefault.jpg)](https://youtu.be/vZ7z6WNted4)
 ### Configuration
 Look at line 22. change the 7.5 in
 ```t.sleep(7.5) # Delay to get into Minecraft```
