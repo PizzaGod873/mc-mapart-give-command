@@ -9,7 +9,9 @@ This script requires 2 things to be installed.
 Install them to your computer or special test editor (like VS code)
 
 ### Video tutorial for configuration
-[![Tutorial](https://img.youtube.com/vi/vZ7z6WNted4/maxresdefault.jpg)](https://youtu.be/vZ7z6WNted4)
+### YOUTUBE HAS WAY BETTER QUALITY BECAUSE GITHUB HAS A 10MB FILE SIZE LIMIT
+[![Tutorial](https://img.youtube.com/vi/vZ7z6WNted4/0.jpg)](https://www.youtube.com/watch?v=vZ7z6WNted4)
+
 ### Configuration
 Look at line 22. change the 7.5 in
 ```t.sleep(7.5) # Delay to get into Minecraft```
